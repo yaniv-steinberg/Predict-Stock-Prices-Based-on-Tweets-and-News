@@ -1,0 +1,7 @@
+Links to the datasets:
+1. Sentiment140 dataset URL: https://www.kaggle.com/datasets/kazanova/sentiment140
+2. Tweets about the Top Companies URL:https://www.kaggle.com/datasets/omermetinn/tweets-
+about-the-top-companies-from-2015-to-2020
+3. Historical financial news archive URL: https://www.kaggle.com/datasets/gennadiyr/us-
+equities-news-data
+4. Y-Finance AAPL historical data URL: https://finance.yahoo.com/quote/AAPL/history?p=AAPL
